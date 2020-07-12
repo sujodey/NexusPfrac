@@ -22,14 +22,14 @@
 	<distributionManagement>
   <repository>
     <id>My-Release</id>
-   	<name>Internal Release</name>
+   	<name>My-Release</name>
     <url>http://localhost:8081/repository/My-Release/</url>
   </repository>
   
   
   <snapshotRepository>
     <id>My-Snapshot</id>
-   <name>Internal Snapshot Release</name>
+   <name>My-Snapshot</name>
     <url>http://localhost:8081/repository/My-Snapshot/</url>
   </snapshotRepository>
 </distributionManagement>
