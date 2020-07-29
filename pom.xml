@@ -16,21 +16,21 @@
 	
 	
 	
-	
+
 	
 	
 	<distributionManagement>
   <repository>
-    <id>src</id>
-   	<name>src</name>
-    <url>http://34.242.48.107:7990/projects/TES/repos/testrepo1/browse/src/</url>
+    <id>MyRelease</id>
+   	<name>MyRelease</name>
+    <url>http://3.249.92.119:8081/repository/MyRelease/</url>
   </repository>
   
   
   <snapshotRepository>
-    <id>src</id>
-   <name>src</name>
-    <url>http://34.242.48.107:7990/projects/TES/repos/testrepo1/browse/src/</url>
+    <id>MySnapshot</id>
+   <name>MySnapshot</name>
+    <url>http://3.249.92.119:8081/repository/MySnapshot/</url>
   </snapshotRepository>
 </distributionManagement>
 
